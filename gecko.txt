@@ -1,0 +1,1 @@
+Hi! My name is Michael Amin and I am completing the Challenge portion of Exercise _01.txt in the IntelliIJ part of the java fundamentals. 
